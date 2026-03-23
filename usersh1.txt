@@ -1,0 +1,13 @@
+
+hello
+hi
+sunday
+monaday
+tuesday
+wednesday
+thursday
+friday
+saturday
+
+happy weekend
+
